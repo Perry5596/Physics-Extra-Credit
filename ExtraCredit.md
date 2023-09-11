@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # Extra Credit - Question 3
 
 ## Question A
@@ -10,7 +8,7 @@ There are two blocks connected together by a string pulled over a frictionless, 
 
 Important: Let the following always be true: 
 
-$$\theta_{1}+\theta_{2}=90^{o};$$
+$$\theta_{1}+\theta_{2}=90^{o}$$
 
 
 Useful trigonometric identities:
